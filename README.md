@@ -1,6 +1,6 @@
 👋 Hi, I’m John Pateros <br>
 👀 I’m interested in Software Engineering Internship Positions. <br>
-🌱 I am acomputer science master’s student at SDSU with an undergraduate in mechanical engineering. <br>
+🌱 I am acomputer science master’s student at SDSU with a bachelor's in mechanical engineering. <br>
 📫 How to reach me jcpateros@gmail.com <br>
 
 <!--
